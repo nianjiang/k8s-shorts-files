@@ -4,7 +4,7 @@
 
 <br/><br/><br/>
 
-### This is the details for video and related YAML files:
+### This is the mapping between videos and YAML files:
 |ID | Video Link| Yaml Folder |
 | --------          | -------- | -------- | 
 |01	| [What are Kubernetes pods?](https://www.youtube.com/watch?v=B1_jgR3zuvA&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=1&pp=iAQB)					| []()|
