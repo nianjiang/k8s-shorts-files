@@ -2,7 +2,6 @@
 
 > This repository contains supporting files for the [Kubernetes Shorts video series](https://www.youtube.com/playlist?list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND).
 
-
 ## This is the details for video and related YAML files:
 |ID | Video Link| Yaml Folder |
 | --------          | -------- | -------- | 
