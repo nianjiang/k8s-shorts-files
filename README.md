@@ -2,7 +2,9 @@
 
 > This repository contains supporting files for the [Kubernetes Shorts video series](https://www.youtube.com/playlist?list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND).
 
-## This is the details for video and related YAML files:
+<br/><br/><br/>
+
+### This is the details for video and related YAML files:
 |ID | Video Link| Yaml Folder |
 | --------          | -------- | -------- | 
 |01	| [What are Kubernetes pods?](https://www.youtube.com/watch?v=B1_jgR3zuvA&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=1&pp=iAQB)					| []()|
@@ -30,9 +32,9 @@
 |23	| [Writing Kubernetes Controllers](https://www.youtube.com/watch?v=q7b23612pSc&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=23&pp=iAQB)			| []()|
 
 
+<br/><br/><br/>
 
-
-## Reference:
+### Reference:
 
 [Website](https://www.startkubernetes.com/)
 
