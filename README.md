@@ -7,7 +7,7 @@
 ### This is the mapping between videos and YAML files:
 |ID | Video Link| Yaml Folder |
 | --------          | -------- | -------- | 
-|01	| [What are Kubernetes pods?](https://www.youtube.com/watch?v=B1_jgR3zuvA&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=1&pp=iAQB)					| []()|
+|01	| [What are Kubernetes pods?](https://www.youtube.com/watch?v=B1_jgR3zuvA&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=1&pp=iAQB)					| [01_Pods](./01_Pods)|
 |02	| [How to create Kubernetes Pods?](https://www.youtube.com/watch?v=n2iN9Gl1zfM&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=2&pp=iAQB)				| []()|
 |03	| [What are Kubernetes ReplicaSets?](https://www.youtube.com/watch?v=PgvKGRYUgeY&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=3&pp=iAQB)			| []()|
 |04	| [How to create Kubernetes ReplicaSets?](https://www.youtube.com/watch?v=RcxQfQjxD_4&list=PLy0Gle4XyvbGhGpX0CXAuiEsfL-MD-rND&index=4&pp=iAQB)		| []()|
